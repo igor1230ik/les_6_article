@@ -1,0 +1,11 @@
+
+
+@font-face {
+    font-family: 'Comforter';
+    src: url('Comforter-Regular.woff2') format('woff2'),
+        url('Comforter-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
